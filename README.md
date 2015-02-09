@@ -1,15 +1,7 @@
 # specifications
 
-各种技术规范的个人解读与参考资料。
+各种技术规范的个人解读与参考资料。各种技术框架的核心原理与经验杂谈。
 
-## MQ
-
-- STOMP
-- JMS
-- AMQP
-- MQTT
-- OpenWire
-- XMPP
 
 ## RPC
 
@@ -40,6 +32,23 @@
 - asp.net & MVC
 - flex
 
+## MQ & Integration
+
+- STOMP
+- JMS
+- AMQP
+- MQTT
+- OpenWire
+- XMPP
+- EAI
+- JBI
+- sdo & sca
+- EIP
+- Camel
+- Spring Integration
+- Mule
+- ServiceMix
+- wso2esb
 
 ## others
 
@@ -48,12 +57,13 @@
 - jdbc
 - jta
 - jcr
+- junit
 - xa
 - jndi
 - bpm
+- CEP
 - com & activex
 - ooxml & office sdk
-- sdo & sca
 
 ## 技术杂谈
 
@@ -61,6 +71,9 @@
 - rpc技术
 - 消息机制
 - soa与集成
+- 自动化测试
+- 前端框架整合
+
 
 
 
